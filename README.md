@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A[Enter Chart Definition] --> B(Preview)
     B --> C{decide}
@@ -6,3 +7,4 @@ graph TD
     E --> B
     D --> F[Save Image and Code]
     F --> B
+```
